@@ -1,4 +1,4 @@
-## LFP-Reac-App
+## LFP-React-App
 
 - He realizado las tres vistas propuestas: login, listado usuarios y detalle usuario. Para esta última, el detalle usuario, me he quedado a medias con el editar usuario.
 
