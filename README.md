@@ -1,3 +1,16 @@
+## LFP-Reac-App
+
+- He realizado las tres vistas propuestas: login, listado usuarios y detalle usuario. Para esta última, el detalle usuario, me he quedado a medias con el editar usuario.
+
+- He empleado React hooks (useEffect, useState...) para el manejo de los estados, junto con Redux, concretamente redux-saga.
+
+- Librería Material-UI, para componentes como la tabla del listado y/o campos del form en vista detalle usuario.
+
+- Para instalación del proyecto:
+npm install
+npm start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
